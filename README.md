@@ -2,7 +2,7 @@
 
 A Power BI dashboard that analyses 25,000+ wildlife strike reports on US aircraft from 2000 to 2011.
 It shows how strikes, damage and cost vary by year, airport, state, phase of flight and weather.
-The aim is to show aviation stakeholders where and when bird-strike risk is highest.
+The aim is to show aviation stakeholders where and when bird-strike risk is highest. 
 
 ## Project Files
 
